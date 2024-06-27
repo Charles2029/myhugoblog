@@ -1,6 +1,6 @@
 ---
 title: Hong Kong Palace Musem 
-subtitle:Welcome to Ancient time
+subtitle:
 date: 2024-06-27T14:47:47+08:00
 slug: 583bc6c
 draft: false
